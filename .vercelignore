@@ -1,0 +1,12 @@
+.git
+.next
+node_modules
+.env*
+artifacts
+test-results
+playwright-report
+e2e
+tests
+supabase
+database
+*.tsbuildinfo

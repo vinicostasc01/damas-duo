@@ -1,5 +1,8 @@
 # Dama — bons encontros, boas jogadas
 
+**Jogar:** https://damas-duo.vercel.app  
+**Código:** https://github.com/vinicostasc01/damas-duo
+
 Jogo de damas online para **duas pessoas**, sem cadastro. Uma pessoa cria a sala e compartilha o link; a outra entra pelo navegador. Também há modo local para duas pessoas no mesmo dispositivo.
 
 ## Funcionalidades
