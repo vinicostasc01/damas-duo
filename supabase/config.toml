@@ -1,0 +1,5 @@
+project_id = "damas-duo"
+
+[functions.games]
+verify_jwt = false
+entrypoint = "./functions/games/index.ts"
